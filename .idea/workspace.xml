@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e5c7f72f-9dca-4717-8d80-a680e4a5b0bc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/62f14693764db0ebbdcfdbb2f9f2aa8a/.filecache" beforeDir="false" afterPath="$PROJECT_DIR$/build/62f14693764db0ebbdcfdbb2f9f2aa8a/.filecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/fastlane/Appfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/fastlane/Fastfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/fastlane/Matchfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +49,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622012087388</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial">
+      <created>1622021657629</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622021657629</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -66,10 +68,10 @@
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state x="273" y="358" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1920.1055@0.25.1920.1055" timestamp="1622017655546" />
-    <state x="333" y="150" key="CommitChangelistDialog2" timestamp="1622012087062">
+    <state x="333" y="150" key="CommitChangelistDialog2" timestamp="1622021657350">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
-    <state x="333" y="150" key="CommitChangelistDialog2/0.25.1920.1055@0.25.1920.1055" timestamp="1622012087062" />
+    <state x="333" y="150" key="CommitChangelistDialog2/0.25.1920.1055@0.25.1920.1055" timestamp="1622021657350" />
     <state width="1080" height="605" key="GridCell.Tab.0.bottom" timestamp="1622020262775">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
@@ -86,10 +88,10 @@
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state width="1080" height="605" key="GridCell.Tab.0.right/0.25.1920.1055@0.25.1920.1055" timestamp="1622020262775" />
-    <state x="314" y="288" key="Vcs.Push.Dialog.v2" timestamp="1622012142927">
+    <state x="314" y="288" key="Vcs.Push.Dialog.v2" timestamp="1622021661502">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
-    <state x="314" y="288" key="Vcs.Push.Dialog.v2/0.25.1920.1055@0.25.1920.1055" timestamp="1622012142927" />
+    <state x="314" y="288" key="Vcs.Push.Dialog.v2/0.25.1920.1055@0.25.1920.1055" timestamp="1622021661502" />
     <state x="337" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1622011500376">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
