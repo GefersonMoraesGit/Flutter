@@ -59,6 +59,10 @@ class MyApp extends StatelessWidget {
             home: FutureBuilder(
               future: firebaseApp,
               builder: (BuildContext context, AsyncSnapshot<dynamic> snapshot) {
+                print("test");
+                print("test");
+                print("test");
+                print("test");
                 if (snapshot.hasError) {
                   return Text('Error');
                 } else if (snapshot.hasData) {
